@@ -1,3 +1,4 @@
 # Coursera-Capstone
 
-Applied Data Science capstone of IBM coursera specialization
+Mini project for IBM Data Science Specialization on Coursera
+
